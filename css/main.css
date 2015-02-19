@@ -37,6 +37,6 @@ body {
   	display: none;
   	position: relative;
   	top: 170px;
-  	left: 160px;
+  	left: -160px;
   	float: left;
 }
